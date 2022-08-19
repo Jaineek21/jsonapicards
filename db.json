@@ -1,0 +1,33 @@
+
+[
+    {
+        "title":"web development",
+        "courses": "129",
+        "image":"../../assets/teaching.png"
+    },
+    {
+        "title":"machine learning",
+        "courses": "129",
+        "image":"../../assets/teaching.png"
+    },
+    {
+        "title":"learn",
+        "courses": "129",
+        "image":"../../assets/teaching.png"
+    },
+    {
+        "title":"learn",
+        "courses": "129",
+        "image":"../../assets/teaching.png"
+    },
+    {
+        "title":"learn",
+        "courses": "129",
+        "image":"../../assets/teaching.png"
+    },
+    {
+        "title":"learn",
+        "courses": "129",
+        "image":"../../assets/teaching.png"
+    }
+]
